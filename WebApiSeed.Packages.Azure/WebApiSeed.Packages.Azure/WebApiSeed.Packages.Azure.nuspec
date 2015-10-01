@@ -18,5 +18,6 @@
     </metadata>
     <files>
         <file src="Content\**\*.*" target="content" />
+        <file src="Tools\**\*.*" target="tools" />
     </files>
 </package>
